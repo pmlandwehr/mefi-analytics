@@ -1,3 +1,4 @@
 .DS_Store
 data/infodump.h5
 .pyc
+nbks/.ipynb_checkpoints/
