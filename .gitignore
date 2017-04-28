@@ -2,3 +2,4 @@
 data/infodump.h5
 .pyc
 .ipynb_checkpoints/
+__pycache__/
